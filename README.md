@@ -17,7 +17,7 @@ I'm studying Computer Engineering at UTFPR and dream of working with game develo
 <br>
 
 ![Matheus's Github Stats](https://github-readme-stats.vercel.app/api?username=Matthias-hrT&theme=radical)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matthias-hrT&layout=compact&theme=radical)](https://github.com/Matthias-hrT/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matthias-hrT&layout=compact&theme=radical&langs_count=8)](https://github.com/Matthias-hrT/github-readme-stats)
 <br>
 
 ## My Favorite Languages
