@@ -36,4 +36,4 @@ I'm studying Computer Engineering at UTFPR and dream of working with game develo
     <img align="center" alt="Core i5 10th" src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>    
 </div>
 
-![Snake animation](https://github.com/Matthias-hrT/Matthias-hrT/blob/output/github-contibution-grid-snake.svg)
+![snake_gif](https://github.com/Matthias-hrT/Matthias-hrT/blob/output/github-contibution-grid-snake.svg)
