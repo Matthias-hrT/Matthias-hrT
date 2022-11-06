@@ -3,7 +3,7 @@
 
 ## 🚀 Sobre mim
 
-I'm studying Computer Engineering at UTFPR and dream of working with game development one day.
+I'm studying Computer Engineering at UTFP.
 
 
 ## 🔗 Links
@@ -21,7 +21,7 @@ I'm studying Computer Engineering at UTFPR and dream of working with game develo
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matthias-hrT&layout=compact&theme=radical&langs_count=8)](https://github.com/Matthias-hrT/github-readme-stats)
 <br>
 
-## My Favorite Languages
+## Languages I'm Learning
 
 <div style="display: inline_block"><br>
     <img align="center" alt="C" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
