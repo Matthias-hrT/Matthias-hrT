@@ -31,7 +31,7 @@ I'm studying Computer Engineering at UTFP.
 
 <div style="display: inline_block"><br>
     <img align="center" alt="RTX 3060 Ti" src="https://img.shields.io/badge/NVIDIA-RTX_3060_Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-    <img align="center" alt="Ryzen 7 5700x" src="https://img.shields.io/badge/Ryzen-7_5700X-0071C5?style=for-the-badge&logo=ryzen&logoColor=white"/>    
+    <img align="center" alt="Ryzen 7 5700x" src="https://img.shields.io/badge/Ryzen_7-5700X-ED1C24?style=for-the-badge&logo=ryzen&logoColor=white"/>    
 </div><br>
 
 ![snake_gif](https://github.com/Matthias-hrT/Matthias-hrT/blob/output/github-contribution-grid-snake.svg)
